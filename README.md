@@ -47,5 +47,5 @@ Software Engineering principles, Agile methodologies, Data analysis, information
 ## References
 
 - [Xaamp](https://www.apachefriends.org/download.html)
-- [https://owasp.org/projects/top-ten]
-- [https://cloud.google.com/]
+- [Owasp top 10](https://owasp.org/projects/top-ten)
+- [Google Cloud](https://cloud.google.com/)
