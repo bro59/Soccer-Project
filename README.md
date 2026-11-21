@@ -38,7 +38,7 @@ Was able to display and categorize all 26 players and gave users the ability to 
 
 ## What I Learned
 
-Software Engineering principles, Agile methodologies, Data analysis, information security
+Software Engineering principles, Agile methodologies, Data analysis, information security, hashing, and Web development.
 
 ## Screenshots
 
