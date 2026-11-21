@@ -42,8 +42,10 @@ Software Engineering principles, Agile methodologies, Data analysis, information
 
 ## Screenshots
 
-![Description of screenshot](screenshots/image-name.png)
+![FC BARCELONA LOGO](project/pictures/barca.png)
 
 ## References
 
-- [Link to relevant resources you used]
+- [https://www.apachefriends.org/download.html]
+- [https://owasp.org/projects/top-ten]
+- [https://cloud.google.com/]
