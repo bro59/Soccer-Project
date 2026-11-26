@@ -8,7 +8,7 @@ Using computer programming and other DevOps tools to gather domain specific data
 
 ## Approach
 
-1. Looked for websites that host the specific information I am looking for
+1. Looked for websites that host the specific information I was looking for
 2. Downloading and extracting the relevant information
 3. Using the Python programming language to clean, structure, storing the data in databases
 4. Build a a web based user interface
